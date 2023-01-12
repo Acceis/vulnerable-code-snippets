@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rack (3.0.3)
+    roda (3.63.0)
+      rack
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  roda (~> 3.63)
+
+BUNDLED WITH
+   2.4.1
