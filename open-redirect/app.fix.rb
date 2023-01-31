@@ -9,7 +9,7 @@ class App < Roda
       @base_url = 'https://www.acceis.fr'
       if r.params['redirect_url'].nil?
         r.redirect '/logout'
-      elsif /^#{Regexp.escape(@base_url)}\/.*$/i.match?(r.params['redirect_url'])
+      elsif /\A#{Regexp.escape(@base_url)}\/.*\Z/i.match?(r.params['redirect_url'])
         r.redirect r.params['redirect_url']
       else
         r.redirect 'https://www.acceis.fr/rejoignez-nous/'
