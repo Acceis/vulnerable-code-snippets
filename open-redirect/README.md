@@ -17,3 +17,15 @@ Start the fixed app:
 ```
 VULN=off rackup
 ```
+
+## Announcement and solution
+
+Challenge announcement:
+
+- 🇫🇷 https://twitter.com/acceis/status/1620096659282853892
+- 🇬🇧 https://twitter.com/acceis/status/1620096662265016321
+
+Solution article:
+
+- 🇫🇷 https://www.acceis.fr/solution-de-lextrait-de-code-vulnerable-n1
+- 🇬🇧 https://www.acceis.fr/solution-for-the-vulnerable-code-snippet-n1
