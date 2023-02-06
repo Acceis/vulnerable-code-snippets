@@ -10,7 +10,11 @@ The code example showcased here are not suited for production use. You should ru
 
 ## Vulnerabilities
 
-**Open Redirect** cf. [open-redirect](open-redirect) folder
+**Open Redirect**:
+
+- n°1 - [open-redirect](open-redirect) folder
+
+Ref.
 
 - [OWASP Cheat Sheet - Unvalidated Redirects and Forwards Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Unvalidated_Redirects_and_Forwards_Cheat_Sheet.html)
 - [CWE-601: URL Redirection to Untrusted Site ('Open Redirect')](https://cwe.mitre.org/data/definitions/601.html)
