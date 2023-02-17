@@ -9,13 +9,13 @@
 Start the vulnerable app:
 
 ```
-VULN=on rackup
+VULN=on bundle exec rackup -s puma
 ```
 
 Start the fixed app:
 
 ```
-VULN=off rackup
+VULN=off bundle exec rackup -s puma
 ```
 
 ## Announcement and solution
