@@ -20,3 +20,12 @@ Ref.
 
 - [OWASP Cheat Sheet - Unvalidated Redirects and Forwards Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Unvalidated_Redirects_and_Forwards_Cheat_Sheet.html)
 - [CWE-601: URL Redirection to Untrusted Site ('Open Redirect')](https://cwe.mitre.org/data/definitions/601.html)
+
+**Case Transformation Collision**
+
+- n°2 - [case-transformation-collision](case-transformation-collision) folder
+
+Ref.
+
+- [CWE-179: Incorrect Behavior Order: Early Validation](https://cwe.mitre.org/data/definitions/179.html)
+- [UAX #15 - Unicode Normalization Forms](https://unicode.org/reports/tr15/)

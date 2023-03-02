@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "title": "What's new in ffuf 2.0 release?",
+      "url": "https://www.acceis.fr/whats-new-in-ffuf-2-0-release/"
+    },
+    {
+      "title": "ffuf advanced tricks",
+      "url": "https://www.acceis.fr/ffuf-advanced-tricks/"
+    },
+    {
+      "title": "Transform P3 P4 P5 vulnerabilities to P1",
+      "url": "https://www.acceis.fr/transform-p3-p4-p5-vulnerabilities-to-p1/"
+    },
+    {
+      "title": "Cracking encrypted archives (PKZIP: Zip ZipCrypto, Winzip: Zip AES, 7 Zip, RAR)",
+      "url": "https://www.acceis.fr/cracking-encrypted-archives-pkzip-zip-zipcrypto-winzip-zip-aes-7-zip-rar/"
+    }
+  ]
+}
