@@ -29,3 +29,13 @@ Ref.
 
 - [CWE-179: Incorrect Behavior Order: Early Validation](https://cwe.mitre.org/data/definitions/179.html)
 - [UAX #15 - Unicode Normalization Forms](https://unicode.org/reports/tr15/)
+
+**Broken access control**
+
+- n°3 - [access-control](access-control) folder
+
+Ref.
+
+- [CWE-284: Improper Access Control](https://cwe.mitre.org/data/definitions/284.html)
+- [CWE-178: Improper Handling of Case Sensitivity](https://cwe.mitre.org/data/definitions/178.html)
+- [CWE-1289: Improper Validation of Unsafe Equivalence in Input](https://cwe.mitre.org/data/definitions/1289.html)
