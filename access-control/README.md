@@ -22,8 +22,10 @@ node app.fix.js
 
 Challenge announcement:
 
-- TODO
+- 🇫🇷 https://twitter.com/acceis/status/1647981700218077185
+- 🇬🇧 https://twitter.com/acceis/status/1647981702235422720
 
 Solution article:
 
-- TODO
+- 🇫🇷 https://www.acceis.fr/solution-de-lextrait-de-code-vulnerable-n3/
+- 🇬🇧 https://www.acceis.fr/solution-for-the-vulnerable-code-snippet-n3/
