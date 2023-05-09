@@ -55,4 +55,3 @@ Ref.
 - [CWE-754: Improper Check for Unusual or Exceptional Conditions](https://cwe.mitre.org/data/definitions/754.html)
 - [CWE-863: Incorrect Authorization](https://cwe.mitre.org/data/definitions/863.html)
 - [CWE-285: Improper Authorization](https://cwe.mitre.org/data/definitions/285.html)
-- [CWE-367: Time-of-check Time-of-use (TOCTOU) Race Condition](https://cwe.mitre.org/data/definitions/367.html)

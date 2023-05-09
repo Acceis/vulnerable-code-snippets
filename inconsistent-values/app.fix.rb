@@ -7,7 +7,7 @@ class App < Roda
     r.get 'local' do
       addr = r.ip # safer than parsing HTTP headers
       addr = "http://#{addr}"
-      parsed_addr = URI.parse(addr) # process only one time ad store to avoid TOCTOU attacks
+      parsed_addr = URI.parse(addr)
       if parsed_addr.host == '127.0.0.1'
         safe_addr = parsed_addr.dup # always use the same method to process the data that was used in the security check
         safe_addr.path = '/login'
