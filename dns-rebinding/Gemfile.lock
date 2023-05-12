@@ -1,0 +1,28 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    http-2-next (0.5.1)
+    httpx (0.23.2)
+      http-2-next (>= 0.4.1)
+    nio4r (2.5.8)
+    puma (6.1.0)
+      nio4r (~> 2.0)
+    rack (3.0.4.1)
+    rackup (2.1.0)
+      rack (>= 3)
+      webrick (~> 1.8)
+    roda (3.65.0)
+      rack
+    webrick (1.8.1)
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  httpx (~> 0.23.2)
+  puma (~> 6.1)
+  rackup (~> 2.1)
+  roda (~> 3.63)
+
+BUNDLED WITH
+   2.4.1
