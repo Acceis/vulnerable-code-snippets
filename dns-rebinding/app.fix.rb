@@ -12,7 +12,6 @@ def trusted?(host)
   authorized_ips = ['10.10.0.200', '10.10.0.201']
   r = Resolv::DNS.new(RESOLVER_CONFIG)
   authorized_ips.include?(r.getaddress(host).to_s)
-  true
 end
 
 # configure http client
