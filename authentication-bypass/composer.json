@@ -1,0 +1,16 @@
+{
+    "name": "acceis/avcs6",
+    "description": "ACCEIS Vulnerable Code Snippet n°6",
+    "type": "project",
+    "authors": [
+        {
+            "name": "noraj"
+        }
+    ],
+    "require": {},
+    "config": {
+        "platform": {
+            "php": "8.2.7"
+        }
+    }
+}

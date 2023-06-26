@@ -65,3 +65,14 @@ Ref.
 Ref.
 
 - [CWE-367: Time-of-check Time-of-use (TOCTOU) Race Condition](https://cwe.mitre.org/data/definitions/367.html)
+
+**Resource Injection**
+
+- n°6 - [authentication-bypass](authentication-bypass) folder
+
+Ref.
+
+- [CWE-20: Improper Input Validation](https://cwe.mitre.org/data/definitions/20.html)
+- [CWE-914: Improper Control of Dynamically-Identified Variables](https://cwe.mitre.org/data/definitions/914.html)
+- [CWE-621: Variable Extraction Error](https://cwe.mitre.org/data/definitions/621.html)
+- [PHP - extract](https://www.php.net/manual/en/function.extract)
