@@ -22,10 +22,10 @@ VULN=off bundle exec rackup -s puma
 
 Challenge announcement:
 
-- 🇫🇷 TODO
-- 🇬🇧 TODO
+- 🇫🇷 https://twitter.com/acceis/status/1670810535300853766
+- 🇬🇧 https://twitter.com/acceis/status/1670810537947529219
 
 Solution article:
 
-- 🇫🇷 TODO
-- 🇬🇧 TODO
+- 🇫🇷 https://www.acceis.fr/solution-de-lextrait-de-code-vulnerable-n5
+- 🇬🇧 https://www.acceis.fr/solution-for-the-vulnerable-code-snippet-n5
