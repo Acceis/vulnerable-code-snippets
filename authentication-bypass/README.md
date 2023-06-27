@@ -6,16 +6,16 @@
 
 ## Usage
 
-Start the vulnerable app at http://127.0.0.2:8080/app.vuln.php:
+Start the vulnerable app:
 
 ```
-php -S 127.0.0.2:8080
+VULN=on php -S 127.0.0.2:8080
 ```
 
-Start the fixed app at http://127.0.0.2:8080/app.fix.php:
+Start the fixed app:
 
 ```
-php -S 127.0.0.2:8080
+VULN=off php -S 127.0.0.2:8080
 ```
 
 ## Announcement and solution
