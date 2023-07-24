@@ -22,10 +22,10 @@ VULN=off php -S 127.0.0.2:8080
 
 Challenge announcement:
 
-- 🇫🇷 TODO
-- 🇬🇧 TODO
+- 🇫🇷 https://twitter.com/acceis/status/1682008440766443525
+- 🇬🇧 https://twitter.com/acceis/status/1682008443354333184
 
 Solution article:
 
-- 🇫🇷 TODO
-- 🇬🇧 TODO
+- 🇫🇷 https://acceis.fr/solution-de-lextrait-de-code-vulnerable-n6/
+- 🇬🇧 https://acceis.fr/solution-for-the-vulnerable-code-snippet-n6/
