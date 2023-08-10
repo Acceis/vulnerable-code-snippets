@@ -76,3 +76,16 @@ Ref.
 - [CWE-914: Improper Control of Dynamically-Identified Variables](https://cwe.mitre.org/data/definitions/914.html)
 - [CWE-621: Variable Extraction Error](https://cwe.mitre.org/data/definitions/621.html)
 - [PHP - extract](https://www.php.net/manual/en/function.extract)
+
+**Local file disclosure**
+
+- n°7 - [local-file-disclosure](local-file-disclosure) folder
+
+Ref.
+
+- [CWE-22: Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal')](https://cwe.mitre.org/data/definitions/22.html)
+- [CWE-23: Relative Path Traversal](https://cwe.mitre.org/data/definitions/23.html)
+- [CWE-73: External Control of File Name or Path](https://cwe.mitre.org/data/definitions/73.html)
+- [CWE-183: Permissive List of Allowed Inputs](https://cwe.mitre.org/data/definitions/183.html)
+- [CWE-625: Permissive Regular Expression](https://cwe.mitre.org/data/definitions/625.html)
+- [CWE-706: Use of Incorrectly-Resolved Name or Reference](https://cwe.mitre.org/data/definitions/706.html)
