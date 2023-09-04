@@ -21,8 +21,8 @@ cargo run --example app-fix
 
 Challenge announcement:
 
-- 🇫🇷 https://twitter.com/acceis/status/TODO
-- 🇬🇧 https://twitter.com/acceis/status/TODO
+- 🇫🇷 https://twitter.com/acceis/status/1620096659282853892
+- 🇬🇧 https://twitter.com/acceis/status/1620096662265016321
 
 Solution article:
 
